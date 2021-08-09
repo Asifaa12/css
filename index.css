@@ -1,0 +1,12 @@
+#image
+{
+  width: 50px;
+  height: 50px;
+  padding: 30px;
+  border: 10px double antiquewhite;
+  margin: 5px;
+  background-color:  cadetblue;
+  border-radius: 10px;
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcznfF9JBD7w0YdO5O21hRn2n4L-s8ttCvfg&usqp=CAU);
+  background-position: center;
+}
